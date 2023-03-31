@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E97B5349-D785-4F4E-80F5-C83E3E885476"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5FBB7909-52B1-4016-A5EA-34F9B137ED39"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/MateriaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "validar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5FBB7909-52B1-4016-A5EA-34F9B137ED39 - d551a25b3b9585e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MRangelControlEscolar.MateriaViewController.validar() -&gt; ()"
+                  moduleName = "MRangelControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba5/Documents/Maria%20Fernanda%20Rangel%20Renteria/MRangelControlEscolar/MRangelControlEscolar/Controller/MateriaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "676">
+               </Location>
+               <Location
+                  uuid = "5FBB7909-52B1-4016-A5EA-34F9B137ED39 - d07e15836bd32f31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;MRangelControlEscolar.Result&lt;MRangelControlEscolar.Materia&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MRangelControlEscolar.MateriaViewController.validar() -&gt; ()"
+                  moduleName = "MRangelControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba5/Documents/Maria%20Fernanda%20Rangel%20Renteria/MRangelControlEscolar/MRangelControlEscolar/Controller/MateriaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD03CA60-DBA9-4EF7-9445-A2DBB31EDCE1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/MateriaTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "149"
+            endingLineNumber = "149"
+            landmarkName = "prepare(for:sender:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "57E173C1-63CF-4836-8ECF-CAFA5F628371"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/MateriaTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "tableView(_:editActionsForRowAt:for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4AA38C50-93BF-4737-BF74-BEBF7CE8CFDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/ViewModel/MateriaViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "GetByIdMateria(idMateria:materia:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32DDFAE0-2945-4B50-969A-8A420F80C5B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/MateriaViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "117"
+            endingLineNumber = "117"
+            landmarkName = "BtnAcciones(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32DDFAE0-2945-4B50-969A-8A420F80C5B2 - 85ac03f1429a3b6d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MRangelControlEscolar.MateriaViewController.BtnAcciones(Any) -&gt; ()"
+                  moduleName = "MRangelControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba5/Documents/Maria%20Fernanda%20Rangel%20Renteria/MRangelControlEscolar/MRangelControlEscolar/Controller/MateriaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "117"
+                  endingLineNumber = "117"
+                  offsetFromSymbolStart = "4512">
+               </Location>
+               <Location
+                  uuid = "32DDFAE0-2945-4B50-969A-8A420F80C5B2 - faf3280eb6188667"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Optional&lt;MRangelControlEscolar.Result&lt;MRangelControlEscolar.Materia&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MRangelControlEscolar.MateriaViewController.BtnAcciones(Any) -&gt; ()"
+                  moduleName = "MRangelControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba5/Documents/Maria%20Fernanda%20Rangel%20Renteria/MRangelControlEscolar/MRangelControlEscolar/Controller/MateriaViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

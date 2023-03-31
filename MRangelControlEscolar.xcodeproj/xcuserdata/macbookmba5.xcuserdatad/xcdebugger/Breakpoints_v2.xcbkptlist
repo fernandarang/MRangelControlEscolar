@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD6B6046-BE09-45B6-B2C3-B51BADA2DD1D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CB96523-4FED-4FE1-A57B-161925BA1887"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/AlumnoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "GetAlumno()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B963D517-EEED-440D-B745-E74192D44D54"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/ViewModel/AlumnoViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "GetAlumnos(alumno:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F8BFF7F-5C6E-45B7-AFAF-526502A1B307"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/AlumnoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "GetAlumno()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9F8BFF7F-5C6E-45B7-AFAF-526502A1B307 - 6ee4e8b3b26fca41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;MRangelControlEscolar.Result&lt;MRangelControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MRangelControlEscolar.AlumnoTableViewController.GetAlumnos() -&gt; ()"
+                  moduleName = "MRangelControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba5/Documents/Maria%20Fernanda%20Rangel%20Renteria/MRangelControlEscolar/MRangelControlEscolar/Controller/AlumnoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "9F8BFF7F-5C6E-45B7-AFAF-526502A1B307 - e4e130ba88befcbc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;MRangelControlEscolar.Result&lt;MRangelControlEscolar.Alumno&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in MRangelControlEscolar.AlumnoTableViewController.GetAlumnos() -&gt; ()"
+                  moduleName = "MRangelControlEscolar"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookmba5/Documents/Maria%20Fernanda%20Rangel%20Renteria/MRangelControlEscolar/MRangelControlEscolar/Controller/AlumnoTableViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B502021-15A7-4AD2-AC61-B8E545E97E06"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/AlumnoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEF3A7BB-CBE1-4A54-BADB-65A1FB57C1E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MRangelControlEscolar/Controller/AlumnoTableViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
